@@ -7,11 +7,8 @@ package model;
 
 /**
  *
- * @author (name=Fabricio Henrique Vieira da Silva, date=07-23-2017)
+ * @author 98923
  */
-public class Livro {
-
-    private int codigo,quantidadePaginas;
-    private String nome,autor;
+public class Revista {
     
 }
